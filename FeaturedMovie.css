@@ -1,0 +1,7 @@
+.featured-movie {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    padding: 200px;
+    color: #fff;
+  }

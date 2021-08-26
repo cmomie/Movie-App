@@ -1,0 +1,1 @@
+export default url = `https://api.themoviedb.org/3/search/movie?api_key=4c7ff8e6151131469216f007e4be3b3dlanguage=en-US&query=${query}&page=1&include_adult=false`;
